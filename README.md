@@ -1,2 +1,1 @@
-This repository consists of PYTHON material including books and material for different streams (ML, DS, CYBER).
-Use this repository for educational purpose only. 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=F7F7F7&random=false&width=2000&lines=This+repository+consists+of+PYTHON+material+including+books+and+material+for+different+streams+(ML%2C+DS%2C+CYBER).;Use+this+repository+for+educational+purpose+only." alt="Typing SVG" />
